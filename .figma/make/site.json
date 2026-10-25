@@ -1,0 +1,12 @@
+{
+  "description": "Talangin splits restaurant bills fairly: connect receipt items to friends, share tax and service in proportion, support several payers, and see who pays whom in rupiah.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  },
+  "title": "Talangin",
+  "language": "en"
+}
